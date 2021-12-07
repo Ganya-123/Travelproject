@@ -1,7 +1,6 @@
 {
   "name": "js",
   "version": "1.0.0",
-  "description": "",
   "main": "main.js",
   "dependencies": {
     "nodemon": "^2.0.15"
@@ -9,7 +8,7 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "httplib.js"
+    "start": "node httplib.js"
   },
   "repository": {
     "type": "git",
@@ -20,5 +19,6 @@
   "bugs": {
     "url": "https://github.com/Ganya-123/Travelproject/issues"
   },
-  "homepage": "https://github.com/Ganya-123/Travelproject#readme"
+  "homepage": "https://github.com/Ganya-123/Travelproject#readme",
+  "description": ""
 }
